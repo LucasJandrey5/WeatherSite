@@ -16,15 +16,16 @@ function App() {
         </div>
         <footer className="text-center my-8">
           <p>
-            {"Design by "}
+            {"Inspired by "}
             <a
               href="https://www.figma.com/@theyshshrma"
               target={"_blank"}
               rel="noreferrer"
               className="font-semibold underline"
             >
-              {" Yash "}
+              {" Yash's "}
             </a>
+            design
           </p>
 
           <pre className="flex flex-row justify-center">
