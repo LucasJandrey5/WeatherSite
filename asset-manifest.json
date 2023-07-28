@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/WeatherSite/static/css/main.ae3ac103.css",
+    "main.js": "/WeatherSite/static/js/main.ae4044db.js",
+    "static/media/windy-lightning-snow-cloud.png": "/WeatherSite/static/media/windy-lightning-snow-cloud.721532863b4e5e3a1458.png",
+    "static/media/snow-rain.png": "/WeatherSite/static/media/snow-rain.7849c4fc8e262fdae9c9.png",
+    "static/media/partly-cloudy-rain-day.png": "/WeatherSite/static/media/partly-cloudy-rain-day.4bf790e87a1f399bb5fd.png",
+    "static/media/heavy-raining-and-thunder.png": "/WeatherSite/static/media/heavy-raining-and-thunder.b511855d64a11b93b7eb.png",
+    "static/media/heavy-rain.png": "/WeatherSite/static/media/heavy-rain.6348e132a64bad823b67.png",
+    "static/media/raining-day.png": "/WeatherSite/static/media/raining-day.6859a19adf29b15a5242.png",
+    "static/media/partly-cloudy-rain-night.png": "/WeatherSite/static/media/partly-cloudy-rain-night.1934e0870f124969336a.png",
+    "static/media/raining-night.png": "/WeatherSite/static/media/raining-night.1934e0870f124969336a.png",
+    "static/media/lighting-and-cloudy.png": "/WeatherSite/static/media/lighting-and-cloudy.7c4319af2f597e88ec57.png",
+    "static/media/cloud-and-fog.png": "/WeatherSite/static/media/cloud-and-fog.bea30e4745cb403b2220.png",
+    "static/media/periodic-cloudy.png": "/WeatherSite/static/media/periodic-cloudy.480d3956c4d93b55662f.png",
+    "static/media/night.png": "/WeatherSite/static/media/night.d4bc4caeb9bde9cc8f54.png",
+    "static/media/snow.png": "/WeatherSite/static/media/snow.a7f4a813c8b508a0e4a6.png",
+    "static/media/cloudy.png": "/WeatherSite/static/media/cloudy.070f2df664d6d542be95.png",
+    "static/media/sun.png": "/WeatherSite/static/media/sun.cc7c1cde45350af1c6b7.png",
+    "static/media/logo.png": "/WeatherSite/static/media/logo.9895e24de0b070b3db82.png",
+    "index.html": "/WeatherSite/index.html",
+    "main.ae3ac103.css.map": "/WeatherSite/static/css/main.ae3ac103.css.map",
+    "main.ae4044db.js.map": "/WeatherSite/static/js/main.ae4044db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3ac103.css",
+    "static/js/main.ae4044db.js"
+  ]
+}
