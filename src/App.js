@@ -6,7 +6,7 @@ import { Flowbite } from "flowbite-react";
 function App() {
   return (
     <Flowbite className="flex flex-col justify-center items-center min-h-screen dark:bg-slate-900">
-      <div>
+      <div className="min-h-screen dark:bg-slate-900">
         <Header />
         <Home />
         <Footer />
