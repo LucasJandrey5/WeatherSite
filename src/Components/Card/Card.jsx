@@ -33,7 +33,7 @@ const Card = ({ location }) => {
     };
 
     getInfo().catch(console.error);
-  }, []);
+  }, [location]);
 
   useEffect(() => {
     const setCard = async () => {
@@ -55,7 +55,7 @@ const Card = ({ location }) => {
     setTime(info.current.last_updated.split(" ")[1]);
 
     setDayName(getDayName("01/06/2023", "en-us")); //mm/dd/yyyy
-    console.log(info.current.last_updated.split(" ")[0]);
+    //console.log(info.current.last_updated.split(" ")[0]);
   }, [info]);
 
   function getDayName(dateStr, locale) {
@@ -102,7 +102,7 @@ const Card = ({ location }) => {
           </p>
         </div>
       ) : (
-        <p>Loading</p>
+        <p></p>
       )}
     </div>
   );
